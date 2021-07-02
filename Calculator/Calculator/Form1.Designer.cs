@@ -3,7 +3,11 @@
     partial class Form1
     {
         /// <summary>
+<<<<<<< HEAD
         /// Требуется переменная конструктора.
+=======
+        /// Обязательная переменная конструктора.
+>>>>>>> 394ed150555f5b5f860a2cb09abc8c8299995275
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
@@ -23,6 +27,7 @@
         #region Код, автоматически созданный конструктором форм Windows
 
         /// <summary>
+<<<<<<< HEAD
         /// Обязательный метод для поддержки конструктора - не изменяйте
         /// содержимое данного метода при помощи редактора кода.
         /// </summary>
@@ -318,6 +323,20 @@
         private System.Windows.Forms.Button button18;
         private System.Windows.Forms.Button button19;
         private System.Windows.Forms.Label label1;
+=======
+        /// Требуемый метод для поддержки конструктора — не изменяйте 
+        /// содержимое этого метода с помощью редактора кода.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Form1";
+        }
+
+        #endregion
+>>>>>>> 394ed150555f5b5f860a2cb09abc8c8299995275
     }
 }
 

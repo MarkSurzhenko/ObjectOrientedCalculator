@@ -16,6 +16,7 @@ namespace Calculator
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         float a, b;
         int count;
@@ -181,5 +182,7 @@ namespace Calculator
         }
 
         
+=======
+>>>>>>> 394ed150555f5b5f860a2cb09abc8c8299995275
     }
 }
